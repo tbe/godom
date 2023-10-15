@@ -155,3 +155,7 @@ func main() {
 	// </div>
 }
 ```
+
+## Contribute
+
+Contributions to GoDOM are welcome! Feel free to open issues or submit pull requests.
