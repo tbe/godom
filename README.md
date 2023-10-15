@@ -21,8 +21,6 @@ While both GoDOM and gomponents provide tools for constructing HTML in Go, there
 
 - **Design Philosophy:** While gomponents focuses on creating a pure-functional way of building HTML, GoDOM provides a
   more direct way of working with elements and attributes.
-- **Interface and Usage:** GoDOM introduces different interfaces, such as `ElementFactory`, `ElementConstructor`,
-  and `ChildlessElementConstructor`, which offer varied use cases compared to gomponents.
 - **Additional Features:** GoDOM offers features like delayed and conditional rendering out of the box.
 
 ## When to use which?
